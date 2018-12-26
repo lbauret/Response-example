@@ -1,1 +1,1 @@
-{"name":"Response-example","classifier":"raml-fragment","tags":["example"],"main":"response-example.raml","groupId":"388876b1-5bef-4d0e-aeeb-d2c5be22b1f6","assetId":"response-example","version":"1.0.0","backwardsCompatible":false}
+{"name":"Response-example","classifier":"raml-fragment","tags":["example"],"main":"response-example.raml","groupId":"388876b1-5bef-4d0e-aeeb-d2c5be22b1f6","assetId":"response-example","version":"1.0.0","backwardsCompatible":true}
